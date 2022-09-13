@@ -1,0 +1,257 @@
+li{list-style:none;}
+
+.header {
+    display: flex;
+    justify-content: space-between;
+    border-bottom: 1px solid #dee2e6;
+}
+
+.menu {
+    display: flex;
+    justify-content: flex-end;
+    gap: 0px 32px;
+    margin: 16px;
+}
+
+.menu_features {
+    text-decoration: none;
+    color: #343a40;
+}
+.menu_enterprise {
+    text-decoration: none;
+    color: #343a40;
+}
+.menu_support {
+    text-decoration: none;
+    color: #343a40;
+}
+.menu_pricing {
+    text-decoration: none;
+    color: #343a40;
+}
+
+.title {
+    display: flex;
+    flex-direction: column;
+    margin-top: 58px;
+    gap: 8px;
+}
+
+.title_name {
+    display: flex;
+    justify-content: center;
+    font-size: 3.5em;
+    font-weight: 300;
+}
+
+.title_info2 {
+    display: flex;
+    justify-content: center;
+}
+
+.title_info {
+    display: flex;
+    text-align: center;
+    width: 668px;
+    font-size: 1.25em;
+    font-weight: 300;
+    margin-bottom: 16px;
+}
+
+.containers0 {
+    display: flex;
+    justify-content: center;
+}
+.containers1 {
+    display: flex;
+    flex-direction: row;
+    padding-bottom: 2rem;
+    width: 930px;
+    border-bottom: 1px solid #dee2e6;
+}
+
+.containers2 {
+    display: flex;
+    width: 970px;
+    justify-content: center;
+    justify-content: space-around;
+}
+
+.free_header {
+    display: flex;
+    justify-content: center;
+}
+
+.free_container {
+    width: 290px;
+    height: 321.8pxx;
+    border-width: 1px;
+    border-style: solid;
+    border-color: #343a40;
+    border-radius: 10px;
+}
+
+.free_body_price {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+}
+
+.free_body_info {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    text-align: center;
+    padding-left: 0;
+}
+
+.pro_header {
+    display: flex;
+    justify-content: center;
+}
+
+.pro_container {
+    width: 290px;
+    height: 321.8pxx;
+    border-width: 1px;
+    border-style: solid;
+    border-color: #343a40;
+    border-radius: 10px;
+}
+
+.pro_body_price {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+}
+
+.pro_body_info {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    text-align: center;
+    padding-left: 0;
+}
+
+.enterprise_header {
+    display: flex;
+    justify-content: center;
+}
+
+.enterprise_container {
+    width: 290px;
+    height: 321.8pxx;
+    border-width: 1px;
+    border-style: solid;
+    border-color: #343a40;
+    border-radius: 10px;
+}
+
+.enterprise_body_price {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+}
+
+.enterprise_body_info {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    text-align: center;
+    padding-left: 0;
+}
+
+.footer {
+    display: flex;
+    justify-content: center;
+    padding-top: 1.5rem
+}
+
+.footer1 {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+}
+
+.copyright {
+    display: flex;
+    flex-direction: column;
+    width: 210px;
+}
+
+.footer_menu1 {
+    display: flex;
+    flex-direction: column;
+    width: 210px;
+}
+
+.footer_menu1_1 {
+    text-decoration: none;
+    color: #6c757d;
+}
+.footer_menu1_2 {
+    text-decoration: none;
+    color: #6c757d;
+}
+.footer_menu1_3 {
+    text-decoration: none;
+    color: #6c757d;
+}
+.footer_menu1_4 {
+    text-decoration: none;
+    color: #6c757d;
+}
+.footer_menu1_5 {
+    text-decoration: none;
+    color: #6c757d;
+}
+.footer_menu1_6 {
+    text-decoration: none;
+    color: #6c757d;
+}
+
+.footer_menu2 {
+    display: flex;
+    flex-direction: column;
+    width: 210px;
+}
+
+.footer_menu2_1 {
+    text-decoration: none;
+    color: #6c757d;
+}
+.footer_menu2_2 {
+    text-decoration: none;
+    color: #6c757d;
+}
+.footer_menu2_3 {
+    text-decoration: none;
+    color: #6c757d;
+}
+.footer_menu2_4 {
+    text-decoration: none;
+    color: #6c757d;
+}
+
+.footer_menu3 {
+    display: flex;
+    flex-direction: column;
+    width: 210px;
+}
+
+.footer_menu3_1 {
+    text-decoration: none;
+    color: #6c757d;
+}
+.footer_menu3_2 {
+    text-decoration: none;
+    color: #6c757d;
+}
+.footer_menu3_3 {
+    text-decoration: none;
+    color: #6c757d;
+}
+.footer_menu3_4 {
+    text-decoration: none;
+    color: #6c757d;
+}
